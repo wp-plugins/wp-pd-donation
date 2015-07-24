@@ -1,0 +1,152 @@
+#donate-form-error {
+	margin:10px 0;
+	padding:10px;
+	background:#F2DEDE;
+	border:1px solid #E5A2A2;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#donate-form-error h4 {
+	font-size:16px;
+	line-height:20px;
+}
+
+#donate-form input[type="text"] {
+	padding:3px 5px;
+	width:80%;
+}
+
+#donate-form input[type="text"].narrow-field {
+	width:150px;
+}
+
+#donate-form .field-error-message {
+	display:none;
+	font-size:12px;
+	font-style:italic;
+	color:#FF0000;
+	margin:0;
+	padding:0;
+}
+
+.donate-form-group:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+	}
+* html .donate-form-group             { zoom: 1; } /* IE6 */
+*:first-child+html .donate-form-group { zoom: 1; } /* IE7 */
+
+.donate-form-group {
+	margin:0 0 10px;
+}
+
+.donate-form-label {
+	float:left;
+	width:40%;
+}
+
+.donate-form-label label {
+	font-weight:bold;
+}
+
+.donate-form-field {
+	width:60%;
+	float:left;
+}
+
+.donate-form-field .deduction-amount {
+	width:190px;
+	margin:5px 0;
+	padding:3px 10px;
+	display:none;
+}
+
+.donate-form-field .deduction-amount label {
+	display:inline-block;
+	margin:0 5px 0 0;
+}
+
+#donate-form #deduction-amount {
+	width:70px;
+}
+
+.donate-form-field .donate-form-note {
+	font-style:italic;
+	font-size:12px;
+	padding:3px 5px;
+	display:none;
+	background:#FBFFD1;
+	border:1px solid #EDF2B3;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.donate-form-group .donate-button {
+	margin-left:40%;
+	padding:3px 10px;
+}
+
+#donate-form input[type="text"].field-error {
+	border:1px solid #FF0000;
+}
+
+#donate-form .formfeedback {
+	margin-left:40%;
+	display:none;
+}
+
+#donate-form .formfeedback.error-field {
+	font-size:12px;
+	font-style:italic;
+	color:#FFFFFF;
+}
+
+#donate-form .form-submission-message {
+	font-size:14px;
+	margin:10px 0 10px;	
+}
+
+#donate-form .form-submission-message.success {
+	color:#16AF19;
+}
+
+#donate-form .form-submission-message.error {
+	color:#FF0000;
+}
+
+#donate-form .form-icon-loading {
+	display:none;
+	background:url('../images/ajax-loader.gif') no-repeat 0 0;
+	width:16px;
+	height:16px;
+	margin-left:5px;
+}
+
+#donate-form .form-icon-loading.active {
+	display:inline-block;
+}
+
+#donate-form-feedback {
+	display:none;
+	margin:5px 0;
+}
+
+#donate-form-feedback .form-message {
+	display:block;
+	margin:0;
+	padding:0;
+	text-align:center;
+	padding:5px;
+}
+
+#donate-form-feedback .form-message.error {
+	color:#202020;
+	background:#FFC9C9;
+	border:1px solid #EE0000;
+}

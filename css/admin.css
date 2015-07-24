@@ -1,0 +1,24 @@
+.donations-paging {
+	margin:20px 0 0;
+}
+
+.donations-paging .page-numbers {
+	display:inline-block;
+	padding:4px 8px;
+	color:#FFFFFF;
+	background:#128CBC;
+	text-decoration:none;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.donations-paging .page-numbers.current {
+	background:#065F7C;
+}
+
+.form-table.donation-table tr th, .form-table.donation-table tr td {
+	background:#ECECEC;
+	border-bottom:1px solid #CCCCCC;
+	padding: 12px 10px;
+}

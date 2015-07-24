@@ -1,0 +1,7 @@
+[2014-04-27 16:32 UTC] Can't connect to PayPal to validate IPN message: error setting certificate verify locations:
+  CAfile: /home/gemc/public_html/wp-content/plugins/gemc-donate./cacert.pem
+  CApath: none
+
+Unauthorized request, nonce is invalid.
+Unauthorized request, nonce is invalid for transaction #[2JG84745X0495540J].
+Unauthorized request, nonce is invalid for transaction #[7DG724951M1862218].
