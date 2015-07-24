@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This particular plugin has the ability to (group, manage) and upload multiple images.
+WordPress paypal donation plugin.
 
 == Description ==
 
