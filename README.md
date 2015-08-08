@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: charly23
-Donate link: http://plontacreative.com/wp-plugins/?name=wp-paypal-donation&slug=wp-pd-donation
+Donate link: https://charlycapillanes.wordpress.com/2015/08/03/donation/
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 3.4
