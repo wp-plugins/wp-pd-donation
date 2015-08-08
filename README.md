@@ -13,7 +13,6 @@ WordPress paypal donation plugin.
 == Description ==
 
 WordPress paypal donation plugin.
-Powered by: WP (MVC) framework
 
 A few notes about the sections above:
 
